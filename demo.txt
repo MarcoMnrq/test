@@ -1,4 +1,7 @@
-Hello world
+THIS IS NOW HELLOW WORLD IN CAPS
 
 
-example of new content
+EXAMPLE 
+
+
+THIS IS NOW NEW TEXT
